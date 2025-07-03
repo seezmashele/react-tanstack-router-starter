@@ -7,7 +7,7 @@ import { resolve } from 'node:path';
 // https://vite.dev/config/
 export default defineConfig({
   server: {
-    port: 5000,
+    port: 5002,
     open: true,
   },
   plugins: [
